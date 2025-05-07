@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #DD783F;
+    --color-laylo: #f00;
+    --rounded-border: 3px;
+}
+
+.container{
+    max-width: 992px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
